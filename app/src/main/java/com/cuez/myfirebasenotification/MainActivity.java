@@ -28,10 +28,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Scanner;
 
-
-
 public class MainActivity extends AppCompatActivity {
-	private static final String AUTH_KEY_SOSO = "key=AAAAo8_P4_I:APA91bFO_V-fOT1XNT8ibZ00b33UPQ8mTySgXNGvq5XszxbckySv3EH0YcURVSRRMrB03fUv5ZJuqrvaMZ5NeMu8N4VgUoxdF0nY4QHGBZ63y79mbualGsQrPblcyPZYO5N6O13PG6TA";
 	private static final String AUTH_KEY_CUEZ = "key=AAAApNxyi24:APA91bHBgO8dsG_F16nyO-KK2YEFGU4l1MZKF7kuo7JeZlNXuZD3uV2QjcgXh6Mr5NPlkV7KViWxjNN7B0edzQVXC-1VcSV9xkxOExnvKjdlfqZrFFg5WKH7OWwEnKMbzeb_v6gQnAWR";
 
 	private TextView mTextView;
